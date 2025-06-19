@@ -14,7 +14,7 @@ const Navbar = () => {
         {/* Logo */}
         <a href="/" className="flex text-lg font-semibold">
           <img
-            src="lohublogonew.svg"
+            src="lohublogonew2.svg"
             width="100"
             height="100"
             className="p-2"
