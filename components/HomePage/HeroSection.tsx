@@ -9,7 +9,7 @@ const HeroSection = () => {
           {/* Image */}
           <div className="w-full md:w-1/2 flex justify-center">
             <Image
-              src="/contactus.png"
+              src="/contactus1.svg"
               alt="Contact Us"
               width={220}
               height={220}
